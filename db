@@ -1,0 +1,3 @@
+#!/bin/sh
+
+repo-add hv-arch-repo.db.tar.gz *.pkg.tar.zst
